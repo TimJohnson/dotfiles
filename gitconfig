@@ -179,7 +179,7 @@
 	insteadOf = "gist:"
 [user]
 	name = Tim Johnson
-	email = tjohn92@@gmail.com
+	email = tjohn92@gmail.com
 [color "diff-highlight"]
 	oldNormal = red bold
 	oldHighlight = red bold 52
