@@ -160,7 +160,7 @@
 
 [url "git@github.com:"]
 
-	insteadOf = "gh:"
+	insteadOf = https://github.com/
 	pushInsteadOf = "github:"
 	pushInsteadOf = "git://github.com/"
 
@@ -185,3 +185,5 @@
 	oldHighlight = red bold 52
 	newNormal = green bold
 	newHighlight = green bold 22
+[credential]
+	helper = osxkeychain

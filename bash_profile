@@ -1,5 +1,10 @@
 # Add `~/bin` to the `$PATH`
+export NODE_ENV=development;
 export PATH="$HOME/bin:$PATH";
+export PATH="/usr/local/mysql/bin:$PATH";
+export GOPATH="/Users/tijohnson/Projects/gocode";
+export PATH="$GOPATH/bin:$PATH";
+export GOBIN="$GOPATH/bin";
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
